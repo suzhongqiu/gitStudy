@@ -24,5 +24,6 @@ public class MainApplicationTest {
         for (UserAddress userAddress : userAddressList) {
             System.out.println(userAddress);
         }
+
     }
 }
