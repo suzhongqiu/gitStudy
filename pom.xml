@@ -12,6 +12,7 @@
         <module>gmall-interface</module>
         <module>order-service-consumer</module>
         <module>user-service-provider</module>
+        <module>rabbitmq_day1</module>
     </modules>
 
     <properties>
